@@ -1,0 +1,37 @@
+ [
+    {
+    "id":1,
+    "name":"Debbie",
+    "phone":77996674,
+    "role":"admin"
+},
+{
+    "id":2,
+    "name":"Selia",
+    "phone":77998674,
+    "role":"user"
+},
+{
+    "id":3,
+    "name":"Angela",
+    "phone":7987674,
+    "role":"user"
+},
+{
+    "id":4,
+    "name":"Zain",
+    "phone":79086674,
+    "role":"user"
+},
+{
+    "id":5,
+    "name":"Timmon",
+    "phone":778654374,
+    "role":"user"
+},
+{
+    "id":6,
+    "name":"Ywerq",
+    "phone":98766674,
+    "role":"user"
+}]

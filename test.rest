@@ -1,0 +1,18 @@
+###
+GET http://localhost:9000
+###
+GET http://localhost:9000/accounts
+###
+GET http://localhost:9000/account/6
+###
+POST http://localhost:9000/new
+
+Content-Type: application/json
+
+{
+    
+"id": 7,
+"name": "Ywerq",
+"phone": 98766674,
+"role": "user"
+}
